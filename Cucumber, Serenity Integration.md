@@ -9,7 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="additional-setup">Additional setup</h1>
+  <div class="stackedit__html"><h1 id="additional-setup-cucumber">Additional setup (cucumber)</h1>
 <h3 id="requirements-">Requirements :</h3>
 <ul>
 <li>Cucumber</li>
